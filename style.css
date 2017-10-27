@@ -1,0 +1,15 @@
+@font-face {
+  font-family: IsaacGame;
+  src: url('fonts/IsaacGame.ttf');
+}
+@font-face {
+  font-family: IsaacSans;
+  src: url('fonts/IsaacSans.ttf');
+}
+
+#results {
+  font-family: 'IsaacGame', sans-serif;
+  font-weight: 900;
+  font-size: 3em;
+  -webkit-font-smoothing: antialiased;
+}
